@@ -2,14 +2,14 @@ package oracle
 
 import (
 	"fmt"
-	"github.com/oracle/oci-go-sdk/v28/functions"
+	"github.com/oracle/oci-go-sdk/v47/functions"
 	"io/ioutil"
 	"net/http"
 	"os"
 
 	"github.com/fnproject/fn_go/provider"
-	oci "github.com/oracle/oci-go-sdk/v28/common"
-	"github.com/oracle/oci-go-sdk/v28/common/auth"
+	oci "github.com/oracle/oci-go-sdk/v47/common"
+	"github.com/oracle/oci-go-sdk/v47/common/auth"
 )
 
 const (

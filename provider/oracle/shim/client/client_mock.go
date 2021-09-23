@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 	"github.com/golang/mock/gomock"
-	"github.com/oracle/oci-go-sdk/v28/common"
-	"github.com/oracle/oci-go-sdk/v28/functions"
+	"github.com/oracle/oci-go-sdk/v47/common"
+	"github.com/oracle/oci-go-sdk/v47/functions"
 	"time"
 )
 
